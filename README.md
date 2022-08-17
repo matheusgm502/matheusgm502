@@ -1,4 +1,4 @@
-- 👋 Olá! Eu me chamo Matheus. Sou formado em Economia e Pós-Graduando em Ciência de Dados pela UFPE.
+- 👋 Olá! Eu me chamo Matheus. Sou formado em Economia e Pós-Graduando em Ciência de Dados pela UFPE e criei esse Github para documentar o meu progresso em projetos pessoas e da pós graduação.
 
 - ✅ Tenho ótimas noções de lógica matemática, estatística e econometria. Também tenho conhecimento em SQL e Python para análise de dados e data science.
 
